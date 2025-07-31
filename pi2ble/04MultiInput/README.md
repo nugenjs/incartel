@@ -142,5 +142,3 @@ struct SensorConfig {
 - Export data functionality
 - Configuration file support
 
-
-test
