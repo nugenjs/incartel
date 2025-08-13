@@ -64,7 +64,10 @@ void DataVisualizer::render() {
     drawGraph(image, humidityData, humidityColor, 0.0, 100.0, yOffset, "Humidity", "%");
     
     // Draw legend
-    drawLegend(image);
+    if (++fifthFrameCount % 5 == 0) {
+        drawLegend(image);
+    }
+    // drawLegend(image);
     
     cv::imshow(windowName, image);
 }

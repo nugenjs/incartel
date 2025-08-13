@@ -3,7 +3,8 @@
         {
             "name": "Mac",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/opt/homebrew/opt/opencv/include/opencv4"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",

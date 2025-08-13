@@ -12,6 +12,7 @@ private:
     int windowHeight;
     std::deque<SensorReading> dataBuffer;
     SensorConfig config;
+    int fifthFrameCount = 0;
     
     // Graph properties
     int graphHeight;
