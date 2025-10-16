@@ -1,0 +1,23 @@
+telemetry:
+  velocity:
+    x: 100
+    y: 200
+    color: [255, 0, 0]
+    format: '$0mph'
+    ingress:
+      key: velocity
+      baud: 9600
+      type: serial
+  rpm:
+    x: 100
+    y: 300
+    color: [0, 255, 0]
+    format: '$0rpm'
+    ingress:
+      key: rpm
+      baud: null
+      type: ble
+video:
+  width: 640
+  height: 480
+  framerate: 30

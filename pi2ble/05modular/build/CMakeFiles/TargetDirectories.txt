@@ -1,0 +1,5 @@
+/Users/jngu3012/dev/incartel/pi2ble/05modular/build/CMakeFiles/TelemetryConfig.dir
+/Users/jngu3012/dev/incartel/pi2ble/05modular/build/CMakeFiles/AppConfig.dir
+/Users/jngu3012/dev/incartel/pi2ble/05modular/build/CMakeFiles/Main.dir
+/Users/jngu3012/dev/incartel/pi2ble/05modular/build/CMakeFiles/edit_cache.dir
+/Users/jngu3012/dev/incartel/pi2ble/05modular/build/CMakeFiles/rebuild_cache.dir
